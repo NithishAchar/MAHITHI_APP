@@ -5,7 +5,7 @@ It provides a unified platform for **students, faculty, and the public** to regi
 
 ---
 
-## 🚀 Features
+### 🚀 Features
 
 ### 🔐 Authentication
 - Firebase Authentication with **Email & Password**
@@ -42,7 +42,7 @@ It provides a unified platform for **students, faculty, and the public** to regi
 
 ---
 
-## 🏗️ Project Structure
+### 🏗️ Project Structure
 lib/
 - ├── main.dart
 - ├── firebase_options.dart
@@ -88,13 +88,13 @@ Run FlutterFire CLI to generate firebase_options.dart:
 
 flutterfire configure
 
-##4️⃣ Install Dependencies
+### 4️⃣ Install Dependencies
 flutter pub get
 
-##5️⃣ Run the App
+### 5️⃣ Run the App
 flutter run
 
-##🧩 Key Providers
+### 🧩 Key Providers
 Firebase Service Provider
 final firebaseServiceProvider = Provider((ref) => FirebaseService());
 
@@ -103,7 +103,7 @@ final authStateProvider = StreamProvider((ref) {
   return ref.watch(firebaseServiceProvider).authStateChanges;
 });
 
-##💡 Future Enhancements
+### 💡 Future Enhancements
 
 - 🔔 Push Notifications using Firebase Cloud Messaging (FCM)
 
@@ -119,19 +119,19 @@ final authStateProvider = StreamProvider((ref) {
 
 You can include screenshots of login, register, and home screens here.
 
-👨‍💻 Author
+### 👨‍💻 Author
 
-##Nithish Acharya
+## Nithish Acharya
 - LinkedIn:https://www.linkedin.com/in/nithish-acharya-aa7283290
 - Github:https://github.com/NithishAchar
 
 
 💡 Passionate about Flutter, Firebase, and Full-Stack Development
 
-##🪪 License
+## 🪪 License
 
 This project is licensed under the MIT License 
 
-🌟 Support
+## 🌟 Support
 
 If you like this project, please give it a ⭐ on GitHub.
