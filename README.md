@@ -48,13 +48,13 @@ lib/
 - ├── firebase_options.dart
 - ├── services/
 - │ └── firebase_service.dart
-├── screens/
-│ ├── login_selection_page.dart
-│ ├── home_page.dart
-│ ├── profile_page.dart
-│ ├── student_login_screen.dart
-│ ├── student_registration_screen.dart
-│ ├── faculty_registration_page.dart
-│ ├── public_login_screen.dart
-│ ├── public_registration_screen.dart
-│ └── forgot_password_screen.dart
+- ├── screens/
+- │ ├── login_selection_page.dart
+- │ ├── home_page.dart
+- │ ├── profile_page.dart
+- │ ├── student_login_screen.dart
+- │ ├── student_registration_screen.dart
+- │ ├── faculty_registration_page.dart
+- │ ├── public_login_screen.dart
+- │ ├── public_registration_screen.dart
+- │ └── forgot_password_screen.dart
