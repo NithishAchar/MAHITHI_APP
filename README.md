@@ -74,9 +74,9 @@ Make sure you have:
 
 ### 2️⃣ Clone this repository
 
-git clone https://github.com/your-username/mahithi-app.git
-cd mahithi-app
-3️⃣ Setup Firebase
+- git clone https://github.com/your-username/mahithi-app.git
+- cd mahithi-app
+## 3️⃣ Setup Firebase
 
 Create a new Firebase project.
 
@@ -121,7 +121,7 @@ You can include screenshots of login, register, and home screens here.
 
 ### 👨‍💻 Author
 
-## Nithish Acharya
+# Nithish Acharya
 - LinkedIn:https://www.linkedin.com/in/nithish-acharya-aa7283290
 - Github:https://github.com/NithishAchar
 
